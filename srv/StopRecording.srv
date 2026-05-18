@@ -1,0 +1,6 @@
+# Request
+string  bag_name       # name/path of the bag to stop (must match the one used at start)
+---
+# Response
+bool    success
+string  message

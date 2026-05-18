@@ -1,0 +1,7 @@
+# Request
+string[]  topics        # list of topic names to record
+string    bag_name      # output bag directory name/path
+---
+# Response
+bool    success
+string  message        # human-readable status / error detail
